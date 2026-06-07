@@ -1,0 +1,88 @@
+{
+  "Humanoid Robots": [
+    {
+      "title": "9 humanoid robots at CES 2026 that are ready for factories, homes, and hospitals",
+      "url": "https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026",
+      "source": "interestingengineering.com",
+      "author": "Kaif Shaikh",
+      "published_at": "2026-01-07T18:00:00Z",
+      "image_url": null,
+      "summary": "CES 2026 marked a clear break from prior years: humanoid robots that actually work, with defined jobs, commercial customers, and production timelines across factories, homes, and hospitals.",
+      "content": "For years, humanoid robots at CES felt like carefully controlled previews of a distant future. CES 2026 marked a clear break from that pattern. This year, humanoid robots didn't just pose for cameras; they actually worked, across factory floors, hospital environments, home kitchens and service desks. Here are nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers. Boston Dynamics Atlas: Boston Dynamics formally introduced the production-ready version of its electric Atlas humanoid. The company announced a partnership with Google DeepMind to integrate Gemini Robotics AI, enabling Atlas to reason through complex instructions. The new Atlas features 56 degrees of freedom, a 7.5-foot reach, and a lifting capacity of 110 pounds, with a 4-hour battery and hot-swappable autonomy. Initial units will be deployed in 2026 at Hyundai's Metaplant in Georgia. Unitree Robotics G1, H2, and R1: Unitree showcased its full humanoid lineup, positioning the company as a major player in mass-market humanoid robotics. The G1 demonstrated high-speed martial arts and boxing-style movements, emphasizing balance and motor control. Unitree highlighted a shift toward a Robot-as-a-Service model. LG Electronics CLOiD: LG debuted CLOiD as the centerpiece of its Zero Labor Home vision, performing real household tasks including folding laundry, loading a dishwasher and preparing food. It is powered by LG's Affectionate Intelligence and a Vision-Language-Action model. AgiBot A2 Series: AgiBot entered the U.S. market having already shipped over 5,000 robots globally. Standing 169 cm and 69 kg, the A2 served as a hospitality helper, and AgiBot launched Genie Sim 3.0, an open-source training platform built on NVIDIA Isaac Sim. NEURA Robotics 4NE1 (Gen 3): NEURA unveiled its third-generation 4NE1 humanoid, developed with Studio F.A. Porsche, featuring the Neuraverse operating system that lets robots share learned skills across fleets, high-torque joints, a 100 kg lifting capacity, and patented artificial skin. Powered by NVIDIA Isaac GR00T. SwitchBot Onero H1: A wheeled-base humanoid with 22 degrees of freedom running SwitchBot's on-device OmniSense Vision-Language-Action model, performing household tasks locally without cloud computing. LEM Surgical Dynamis: A commercially deployed surgical humanoid for spinal and orthopedic procedures with sub-millimeter accuracy, holding FDA 510(k) clearance and already in clinical use, leveraging NVIDIA Isaac for Healthcare. EngineAI T800: A full-scale humanoid on a magnesium-aluminum alloy frame with joint actuators delivering up to 450 Nm of peak torque, powered by NVIDIA Jetson Thor with up to 2000 TOPS, priced from $25,000 with first shipments in mid-2026. Fourier Robotics GR-3: A care-focused robot for healthcare and public service, 165 cm and 71 kg with 55 degrees of freedom and tactile sensors across its body, targeting eldercare, rehabilitation and service roles."
+    },
+    {
+      "title": "2026 and the Rise of Humanoid Robots: Looking at Trust, Privacy and the Future of Work",
+      "url": "https://www.cnet.com/tech/computing/2026-and-the-rise-of-humanoid-robots-looking-at-trust-privacy-and-the-future-of-work/",
+      "source": "cnet.com",
+      "author": "Jesse Orrall",
+      "published_at": "2025-12-14T08:00:00Z",
+      "image_url": null,
+      "summary": "Humanoid robots are expected in more homes and more warehouse hours in 2026, but the industry must first overcome safety, privacy, affordability and labor-market challenges.",
+      "content": "Humanoid robots are expected to appear in more homes and rack up more hours in warehouses and factories in the coming year. The makers of these bipedal bots are betting big on how they'll change the world, but the industry must first overcome several major challenges. Start with safety. Robots like Digit from Agility Robotics, which can perform some work tasks autonomously, are often segregated from human coworkers. Agility Robotics says it is working on safe human detection so barriers can eventually be removed, but the technology isn't there yet. Humanoids designed for the home pose even greater safety challenges as they navigate environments that may include children, pets and family heirlooms. They also raise concerns about privacy, surveillance and trust. Anything with cameras or a microphone that connects to the internet carries inherent digital risk, and combining those into a human shape amounts to a mix of surveillance-state unease and stranger danger. Humanoids may not even perform household chores autonomously out of the box. Neo from 1X will need to be teleoperated by an expert to start, and the company says data collected in the homes of early adopters will help train the robots to eventually do tasks autonomously. That means an unknown person could be controlling the robot in your home at first. 1X says owners will be able to set no-go zones, opt out of data sharing, and schedule exactly when teleoperation occurs. At launch, Neo has a $20,000 price tag, with a future leasing option at $500 per month. Finally there's the labor-market question: these robots could do work many humans don't want to do, but what becomes of workers who do those jobs for a living if robots take over?"
+    }
+  ],
+  "Physical AI": [
+    {
+      "title": "AGIBOT Unveils New Generation of Embodied AI Robots and Models, Accelerating Real-World Deployment of Physical AI",
+      "url": "https://www.prnewswire.com/apac/news-releases/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-accelerating-real-world-deployment-of-physical-ai-302746185.html",
+      "source": "prnewswire.com",
+      "author": "AGIBOT",
+      "published_at": "2026-04-18T09:00:00Z",
+      "image_url": null,
+      "summary": "AGIBOT unveiled a new generation of embodied AI robots and foundation models forming a unified Physical AI platform that integrates motion, task execution, and human interaction into a closed loop.",
+      "content": "AGIBOT unveiled a new generation of embodied AI robots and models aimed at accelerating the real-world deployment of physical AI. Together, the new models form a unified Physical AI platform that integrates motion control, task execution, and human interaction into a closed-loop system. The platform is designed to let robots perceive their surroundings, plan multi-step tasks, and adapt to changing conditions in unstructured environments such as factories, warehouses, retail showrooms and public spaces. AGIBOT positions embodied AI as the bridge between large foundation models and the physical world, where perception, reasoning and actuation must operate together in real time. The company emphasized scalable data collection and simulation-based training to teach robots complex manipulation skills before they are deployed, and highlighted a roadmap toward mass production and commercial rollout. The announcement reflects a broader 2026 industry shift in which physical AI moves from research labs onto factory floors, powered by vision-language-action models and accelerated robot learning pipelines."
+    },
+    {
+      "title": "Physical AI in 2026: What It Is, Key Models, and How to Build It",
+      "url": "https://www.roboticscenter.ai/blog/physical-ai-2026-guide",
+      "source": "roboticscenter.ai",
+      "author": "Robotics Center",
+      "published_at": "2026-01-15T09:00:00Z",
+      "image_url": null,
+      "summary": "Physical AI refers to artificial intelligence systems that operate in and interact with the physical world through robotic embodiment, combining perception, reasoning and actuation.",
+      "content": "Physical AI refers to artificial intelligence systems that operate in and interact with the physical world through robotic embodiment. Unlike purely digital AI that processes text or images, physical AI must perceive its environment through sensors, reason about goals and constraints, and act through motors and actuators, closing the loop between perception and action. The core building blocks in 2026 include vision-language-action (VLA) models that map camera input and natural-language instructions directly to robot actions, world models that predict the consequences of actions, and large-scale robot learning pipelines that combine teleoperation data, simulation, and reinforcement learning. Hardware advances such as high-torque actuators, dexterous multi-fingered hands, tactile sensing and on-device inference accelerators make it feasible to run these models in real time. Building physical AI typically involves collecting demonstration data, training a foundation policy in simulation using platforms like NVIDIA Isaac, fine-tuning on real robots, and deploying with safety guardrails. The field is advancing quickly as embodied intelligence becomes the central challenge for the next wave of robotics."
+    },
+    {
+      "title": "Who is Leading the Way in Robotics, Humanoids and Physical AI in 2026",
+      "url": "https://www.raisesummit.com/post/who-is-leading-the-way-in-robotics-humanoids-physical-ai-in-2026",
+      "source": "raisesummit.com",
+      "author": "RAISE Summit",
+      "published_at": "2026-02-25T09:00:00Z",
+      "image_url": null,
+      "summary": "2026 is the year Physical AI left the lab and stepped onto the factory floor, moving beyond copilots and chatbots to robots that act in the real world.",
+      "content": "2026 is the year Physical AI left the lab and stepped onto the factory floor. We are no longer talking only about copilots and chatbots; the frontier has shifted to robots powered by foundation models that can perceive, plan and act in the physical world. Leaders in this space span chipmakers providing the compute for embodied intelligence, humanoid hardware companies racing toward production, and AI labs building the vision-language-action models that serve as robot brains. NVIDIA underpins much of the ecosystem with its Isaac simulation and GR00T robot foundation models. Humanoid makers such as Figure, Boston Dynamics, Unitree, Apptronik, AgiBot and NEURA are deploying pilots in logistics and manufacturing. The competitive dynamic in 2026 centers on who can gather the most real-world interaction data, close the sim-to-real gap, and demonstrate reliable autonomy at commercially viable cost. Investors and enterprises increasingly view physical AI as the next major platform after generative AI, with the potential to transform manufacturing, warehousing, healthcare and eldercare."
+    }
+  ],
+  "Robotics Funding": [
+    {
+      "title": "The Week's 10 Biggest Funding Rounds: AI, Robotics and Ecommerce",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/",
+      "source": "crunchbase.com",
+      "author": "Crunchbase News",
+      "published_at": "2026-03-13T09:00:00Z",
+      "image_url": null,
+      "summary": "A curated look at the largest startup funding deals of the week in 2026, with $100 million-plus venture rounds concentrated in AI, robotics and ecommerce.",
+      "content": "Crunchbase's weekly roundup tracks the largest startup funding deals of 2026, focusing on $100 million-plus venture rounds to U.S.-based companies. AI and robotics continued to dominate the list, reflecting investor appetite for embodied intelligence and automation. The biggest rounds spanned AI infrastructure, humanoid robotics, autonomous systems and ecommerce. Robotics startups building general-purpose humanoids and warehouse automation attracted nine-figure rounds as enterprises moved from pilots to deployments. The data underscores how capital is flowing toward companies that pair foundation-model software with physical hardware, betting that physical AI will become a defining category of the decade. Mega-rounds in AI and robotics signal that despite a selective funding environment, investors are willing to write very large checks for category leaders with credible paths to commercial deployment."
+    },
+    {
+      "title": "Robotics Funding Rounds by Month - January 2026",
+      "url": "https://robotsandstartups.substack.com/p/robotics-funding-rounds-by-month-95a",
+      "source": "robotsandstartups.substack.com",
+      "author": "Robots & Startups",
+      "published_at": "2026-01-31T09:00:00Z",
+      "image_url": null,
+      "summary": "January 2026 saw 110 robotics funding rounds totaling roughly $4.3 billion, about 5x the dollar volume of the prior year's January.",
+      "content": "January 2026 was a blockbuster month for robotics financing. The monthly breakdown counted 110 robotics funding rounds for a total of approximately $4,299,221,694, roughly five times the dollar volume recorded in the same month a year earlier. The surge was driven by large rounds in humanoid robotics, autonomous vehicles, logistics and warehouse automation, and industrial robotics. The data shows capital concentrating both in a small number of mega-rounds for humanoid and autonomous-driving leaders and in a long tail of seed and Series A deals for specialized robotics startups. The acceleration reflects growing investor conviction that physical AI and embodied intelligence are reaching commercial inflection points, with foundation-model-powered robots beginning real-world deployments. The monthly cadence of these reports highlights how robotics has become one of the most active venture categories of 2026."
+    },
+    {
+      "title": "Humanoid Robot Startup Funding 2025-2026",
+      "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-funding-analysis",
+      "source": "newmarketpitch.com",
+      "author": "New Market Pitch",
+      "published_at": "2026-05-04T09:00:00Z",
+      "image_url": null,
+      "summary": "An analysis of publicly disclosed equity rounds raised by pure-play humanoid robotics companies between June 2025 and May 2026.",
+      "content": "This study analyzed publicly disclosed equity rounds raised by pure-play humanoid robotics companies between June 2025 and May 2026. The analysis found that humanoid robotics attracted record venture capital over the period, with several companies raising multi-hundred-million-dollar and billion-dollar rounds as they scaled from prototypes to production. Funding concentrated among a handful of leaders building general-purpose humanoids for logistics, manufacturing and home use, while a broader set of startups raised earlier-stage capital for components such as actuators, dexterous hands, tactile sensors and robot-learning software. The report notes that investor enthusiasm is underpinned by demonstrated pilots with enterprise customers, partnerships with automakers and electronics manufacturers, and rapid progress in vision-language-action models. At the same time, the analysis cautions that valuations are aggressive and that commercial returns will depend on whether companies can achieve reliable autonomy and manufacture at scale and acceptable cost."
+    }
+  ]
+}
